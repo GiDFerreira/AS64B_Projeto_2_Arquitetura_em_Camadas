@@ -1,6 +1,21 @@
-O Projeto 2 da disciplina envolve um estudo de caso, documentação e
-mapeamento de requisitos e processos referentes à arquitetura em camadas. Esta pesquisa terá como base um sistema comercial, público, ou de pesquisa, que contenha complexidade suficiente para análise crítica e documentação técnica disponível.
-As entregas podem ser em grupos de até 3 alunos, e devem acontecer considerando duas entregas:
-a) documentação detalhando a arquitetura do sistema escolhido, onde devem ser apontados os recursos referentes a cada camada e seus principais
-processos. 
-b) Deve ser construída uma seção com sugestão de estratégia para escalabilidade ou refatoração da aplicação (ou módulo).
+# Projeto 2 - Estudo de Caso: Arquitetura em Camadas
+
+Este projeto envolve a análise de um sistema comercial, público, ou de pesquisa, com o objetivo de documentar e mapear seus requisitos e processos referentes à arquitetura em camadas.
+
+## Entregas
+
+O projeto será entregue em duas etapas principais:
+
+### a) Documentação da Arquitetura
+
+- **Descrição Geral:** Análise detalhada da arquitetura do sistema escolhido.
+- **Recursos de Cada Camada:** Detalhamento dos recursos presentes em cada camada da arquitetura.
+  - **Camada de Apresentação:** Descrição dos componentes de interface e interação com o usuário.
+  - **Camada de Aplicação:** Processos e serviços de lógica de negócios.
+  - **Camada de Dados:** Mecanismos de armazenamento e recuperação de dados.
+- **Principais Processos:** Explicação dos processos mais importantes em cada camada e como eles se interconectam.
+
+### b) Estratégia de Escalabilidade ou Refatoração
+
+- **Análise Crítica:** Avaliação da arquitetura atual do sistema.
+- **Sugestões de Melhoria:** Propostas de estratégias para escalabilidade ou refatoração da aplicação ou de um de seus módulos.
