@@ -1,5 +1,10 @@
 # Projeto 2 - Estudo de Caso: Arquitetura em Camadas
 
+# Alunas:
+- Gabriella Ribeiro de Melo e Costa - RA: 2487837
+- Giovanna Dias Ferreira - RA: 2477971
+- Maria Fernanda Leonel Bertelli - RA: 2503530
+
 Este projeto envolve a análise de um sistema comercial, público, ou de pesquisa, com o objetivo de documentar e mapear seus requisitos e processos referentes à arquitetura em camadas.
 
 ## Entregas
