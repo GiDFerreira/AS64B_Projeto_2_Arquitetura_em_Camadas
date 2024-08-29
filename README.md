@@ -22,5 +22,4 @@ O projeto será entregue em duas etapas principais:
 
 ### b) Estratégia de Escalabilidade ou Refatoração
 
-- **Análise Crítica:** Avaliação da arquitetura atual do sistema.
 - **Sugestões de Melhoria:** Propostas de estratégias para escalabilidade ou refatoração da aplicação ou de um de seus módulos.
